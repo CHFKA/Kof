@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceRoot}",
+                "F:/MinGW/x86_64-w64-mingw32/include/SDL2",
+                "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/",
+                "F:/llvm/include",
+                "F:/MinGW/x86_64-w64-mingw32/include",
+                "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=7",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "browse": {
+                "path": [
+                    "F:/MinGW/x86_64-w64-mingw32/include/SDL2",
+                    "F:/MinGW/x86_64-w64-mingw32/include",
+                    "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "F:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                    "F:/llvm/include/*",
+                    "${workspaceRoot}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
